@@ -1,2 +1,2 @@
-# issue-tracker
+# Issue Tracker
 Issue tracker test
